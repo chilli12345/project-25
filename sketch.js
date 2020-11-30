@@ -9,7 +9,7 @@ var dustbinImage;
 
 function preload()
 {
-  dustbinImage=loadImage("images/dustbingreen.png");	
+  dustbinImage=loadImage("dustbingreen.png");	
 }
 
 function setup() {
